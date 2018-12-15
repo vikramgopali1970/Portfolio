@@ -1,0 +1,16 @@
+.github{
+    width: 3rem;
+}
+
+.linkedin{
+    width: 3rem;
+}
+
+.linkWrapper{
+    margin: 0% 0% 0% 15%;
+}
+
+.linksMainWrapper{
+    display: flex;
+    flex-direction: row;
+}
