@@ -1,0 +1,4 @@
+.MainWrapperColumn{
+    display: flex;
+    flex-direction: column;
+}

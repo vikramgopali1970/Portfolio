@@ -1,0 +1,19 @@
+.navBarLeft{
+    left: 24% !important;
+}
+
+.fontColor{
+    color: #202020 !important;
+}
+
+.navBar{
+    height: 8vh;
+    line-height: 3rem;
+}
+
+.navBarContents{
+    margin-left: 60%;
+    display: flex;
+    flex-direction: row;
+}
+
