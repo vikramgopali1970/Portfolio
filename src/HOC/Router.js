@@ -1,7 +1,7 @@
 import React from 'react';
 import {Route, Switch} from "react-router-dom";
 import Home from '../Components/Home/Home';
-import Skills from '../Components/Skills/Skills';
+import Skills from '../Containers/Skills/Skills';
 import Projects from '../Components/Projects/Projects';
 import ContactMe from "../Components/ContactMe/ContactMe";
 

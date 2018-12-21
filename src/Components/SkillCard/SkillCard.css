@@ -1,0 +1,17 @@
+.skillCard{
+    position: relative;
+    max-width: 12%;
+    height: 100%;
+    width: 100%;
+    min-width: 12%;
+    min-height: 12%;
+    max-height: 12%;
+    display: flex;
+    flex-flow: column;
+    background-color: #ecf0f1;
+    border-radius: .25rem;
+    margin: 1rem;
+    user-select: none;
+    transition: .25s;
+    box-shadow: 0 10px 30px rgba(44,62,80,.5);
+}

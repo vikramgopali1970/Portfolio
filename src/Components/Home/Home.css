@@ -1,0 +1,20 @@
+.hello{
+    font-size: 350%;
+    text-align: left;
+
+}
+
+.about{
+    font-size: 300%;
+    margin-top: 1%;
+}
+
+.wrapperDiv{
+    margin-top: 20%;
+    padding-left: 10%;
+
+}
+
+.Typewriter__cursor{
+    display: none !important;
+}
