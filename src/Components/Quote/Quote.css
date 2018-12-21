@@ -1,5 +1,31 @@
 .quote{
-    text-align: -webkit-center;
     font-size: x-large;
     color: white;
+    padding-left: 2%;
+    text-align: center;
+
+}
+
+.quoteAuthor{
+    float:right;
+    margin-right: 4%;
+}
+.blockQuote{
+    margin-top: 8%;
+}
+
+.quoteSymbol{
+    font-family: Georgia, serif;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: left;
+    line-height: 0px;
+    content: '\f10d';
+}
+
+.quoteSymbol:before{
+    display: block;
+    content: "\201C";
+    font-size: 80px;
+    color: #ffffff;
 }
