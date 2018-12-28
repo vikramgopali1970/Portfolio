@@ -22,11 +22,6 @@ class NavBar extends React.Component{
                 Key:2
             },
             {
-                Name:"Projects",
-                Link:"/projects",
-                Key : 3
-            },
-            {
                 Name:"Contact Me",
                 Link:"/contact",
                 Key : 4
